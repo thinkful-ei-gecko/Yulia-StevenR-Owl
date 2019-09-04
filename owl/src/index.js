@@ -1,11 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-// import participantList from './partList';
+import App from './App';
 import participants from './Store';
-import ParticipantList from './partList';
 
 ReactDOM.render(
-    <ParticipantList participants={participants} />,
+    <App participants={participants}/>,
      document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
