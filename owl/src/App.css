@@ -6,10 +6,10 @@
 
 .stage {
     flex-basis: 70%;
-    padding: 1em;
+    padding: 1em
 }
 
 .list {
-    flex-basis: 2%;
+    flex-basis: 20%;
     padding: 1em;
   }
