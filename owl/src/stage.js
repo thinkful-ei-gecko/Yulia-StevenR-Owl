@@ -1,9 +1,10 @@
 import React from 'react';
+import './stage.css';
 
-export default function Stage({participants}) {
+export default function Stage(props) {
 return (
-    <section>{participants.map(person => 
-    person.onStage ? <span><h1>{person.name}</h1><img src={person.avatar} alt='participantsAvatar'></img></span> : <span>{null}</span>)
+    <section className={props.className}>{props.children.map((person, i) => 
+    person.onStage ? <span key={i}><h1>{person.name}</h1><img src={person.avatar} alt='participantsAvatar'></img></span> : <span key={i}>{null}</span>)
     }
     </section>)
 }
