@@ -8,8 +8,8 @@ export default function App(props) {
     return (
         <main className="App">
             <ParticipantList className="list" participants={props.participants}></ParticipantList>
-            <Stage className="stage" participants={props.participants}></Stage>
             <Chat className="list" chatEvents={props.chatEvents}></Chat>
+            <Stage className="stage" participants={props.participants}></Stage>
         </main>
     )
 };

@@ -1,6 +1,5 @@
 import React from 'react';
 export default function Chat(props) {
-    console.log(props.chatEvents);
     return (
         <ul className={props.className}>
             {props.chatEvents.map((event, i) =>

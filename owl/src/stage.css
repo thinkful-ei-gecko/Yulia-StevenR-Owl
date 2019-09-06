@@ -1,0 +1,6 @@
+.square {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid white;
+    width: 40%;
+}

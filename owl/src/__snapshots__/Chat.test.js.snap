@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chat renders the UI as expected 1`] = `
+<ul>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p>
+      Hello world
+    </p>
+    <p>
+      message
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      thumbs-up
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      thumbs-down
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      raise-hand
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      clap
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      join
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      leave
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      join-stage
+    </p>
+  </li>
+  <li>
+    <span>
+      1/30/2019
+    </span>
+    <p />
+    <p>
+      leave-stage
+    </p>
+  </li>
+</ul>
+`;

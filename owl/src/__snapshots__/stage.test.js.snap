@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`stage renders the UI as expected 1`] = `
+<section>
+  <span
+    className="square"
+  >
+    <h1>
+      Koren Templeton
+    </h1>
+    <img
+      alt="participantsAvatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+  </span>
+  <span />
+  <span />
+  <span />
+  <span
+    className="square"
+  >
+    <h1>
+      Ashla Attwool
+    </h1>
+    <img
+      alt="participantsAvatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+  </span>
+</section>
+`;

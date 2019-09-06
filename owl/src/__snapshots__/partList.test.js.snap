@@ -1,0 +1,131 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`partList renders the UI as expected 1`] = `
+<ul>
+  <li>
+    <h1>
+      Koren Templeton
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <span>
+      on stage
+    </span>
+  </li>
+  <li>
+    <h1>
+      Caty Flucker
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <span>
+      in session
+    </span>
+  </li>
+  <li>
+    <h1>
+      Axe Kubicka
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <span>
+      left
+    </span>
+  </li>
+  <li>
+    <h1>
+      Frank Runciman
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <span>
+      in session
+    </span>
+  </li>
+  <li>
+    <h1>
+      Ashla Attwool
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <span>
+      on stage
+    </span>
+  </li>
+</ul>
+`;
+
+exports[`stage renders the UI as expected 1`] = `
+<ul>
+  <li>
+    <h1>
+      Koren Templeton
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <span>
+      on stage
+    </span>
+  </li>
+  <li>
+    <h1>
+      Caty Flucker
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <span>
+      in session
+    </span>
+  </li>
+  <li>
+    <h1>
+      Axe Kubicka
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <span>
+      left
+    </span>
+  </li>
+  <li>
+    <h1>
+      Frank Runciman
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <span>
+      in session
+    </span>
+  </li>
+  <li>
+    <h1>
+      Ashla Attwool
+    </h1>
+    <img
+      alt="avatar"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <span>
+      on stage
+    </span>
+  </li>
+</ul>
+`;
